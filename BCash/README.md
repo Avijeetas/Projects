@@ -10,3 +10,8 @@ Some of the features:
 * Recharge the balance
 
 I only used raw concepts to build the projects and handle the cases. 
+**Create user**
+![github-small] (https://github.com/Avijeetas/Projects/blob/main/BCash/Images/User_create.png)
+**Login**
+![github-small](https://github.com/Avijeetas/Projects/blob/main/BCash/Images/Login.png)
+
